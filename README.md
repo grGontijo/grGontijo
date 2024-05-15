@@ -1,6 +1,6 @@
-## Gustavo Vinicius Elias Souza Silva
+## Gabriel Rangel Gontijo
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoViniciuse&show_icons=true&bg_color=00000000)    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grGontijo&show_icons=true&bg_color=00000001)    
 
 
 <div style="display: inline_block"><br>
