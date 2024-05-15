@@ -14,6 +14,6 @@
 ##
 
 <div> 
-  <a href = "mailto:gabrielgontijocc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-rangel-gontijo-9b184426b?/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=grey" target="_blank"></a>  
+  <a href = "mailto:gabrielgontijocc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-rangel-gontijo-9b184426b?/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
